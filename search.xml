@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>post1</title>
+    <url>/2020/03/05/post1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Hexo基础配置</title>
     <url>/2020/03/05/Hexo%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE/</url>
     <content><![CDATA[<h3 id="安装搜索插件"><a href="#安装搜索插件" class="headerlink" title="安装搜索插件"></a>安装搜索插件</h3><ol>
